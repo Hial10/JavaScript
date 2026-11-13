@@ -4,4 +4,4 @@ new world
 HelloCommite Forum is open!
 This one is excellent!
 Bravo! Pollard has won it for WI
-  The team is doing wonders nowadays!
+The team is doing wonders nowadays!
