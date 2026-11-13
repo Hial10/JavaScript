@@ -1,0 +1,2 @@
+NewProject/config.groovy
+This file is added to git ignore to prevent sensitive configuration data from being tracked in version control. It may contain database credentials, API keys, or other environment-specific settings that should not be shared publicly.
